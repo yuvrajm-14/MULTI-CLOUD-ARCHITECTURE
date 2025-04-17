@@ -81,7 +81,7 @@ Step 5: Set Up an S3 Bucket for Static Website Hosting
 2.	Upload Your HTML File which created above index.html
 •	Click on your bucket → Go to Objects → Click Upload
 •	Upload your index.html file
-•	After upload, go to Permission on Bucket-level  Click On Edit Object Ownership Click on ACLs enabled  Click on Checkbox of I acknowledge that ACLs will be restored.  Click on Save Changes→ Go to the Object Tab Select the File  Actions → Make public using ACL  Click on Make Public
+•	After upload, go to Permission on Bucket-level -> Click On Edit Object Ownership-> Click on ACLs enabled -> Click on Checkbox of I acknowledge that ACLs will be restored. -> Click on Save Changes→ Go to the Object Tab -> Select the File -> Actions → Make public using ACL -> Click on Make Public
 
 3.	Enable Static Website Hosting
 •	In your S3 bucket, go to Properties
