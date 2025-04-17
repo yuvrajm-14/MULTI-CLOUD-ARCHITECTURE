@@ -102,9 +102,6 @@ Step 5: Set Up an S3 Bucket for Static Website Hosting
 
 
 #OUTPUT
-![image](https://github.com/user-attachments/assets/26bafe2a-4ce8-4159-a303-bdec9d5ad5b0)
-
-
 ![image](https://github.com/user-attachments/assets/bc057fb2-d488-411b-878b-c1dbc926f937)
 
 
