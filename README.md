@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f2b69fae-7c22-483e-ab30-9d6601ae5cac)# MULTI-CLOUD-ARCHITECTURE
+# MULTI-CLOUD-ARCHITECTURE
 
 **COMPANY**: CODTECH IT SOLUTIONS
 
