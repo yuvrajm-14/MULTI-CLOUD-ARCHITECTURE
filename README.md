@@ -1,4 +1,4 @@
-# MULTI-CLOUD-ARCHITECTURE
+![image](https://github.com/user-attachments/assets/73060794-6614-483b-9126-5ac31a64a883)# MULTI-CLOUD-ARCHITECTURE
 
 **COMPANY**: CODTECH IT SOLUTIONS
 
@@ -109,6 +109,11 @@ Step 5: Set Up an S3 Bucket for Static Website Hosting
 
 
 ![image](https://github.com/user-attachments/assets/c2607472-d752-402b-9000-c8bf9eab096a)
+
+
+
+![image](https://github.com/user-attachments/assets/e9fef8ef-d0e8-46ff-86ab-bc6ab47f604e)
+
 
 
 ![image](https://github.com/user-attachments/assets/017cac6a-4ff7-484b-9e47-7e76bbbb6236)
