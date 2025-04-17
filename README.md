@@ -45,7 +45,7 @@ Step 3: Allow Origin on Azure
 Step 4: Build the Frontend on AWS (S3 Static Website)
 •	Prepare the HTML File
 Create an index.html file on your computer with the following content (update the Azure Function URL):
-<!--
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -69,7 +69,6 @@ Create an index.html file on your computer with the following content (update th
   </script>
 </body>
 </html> 
--->
 
 Step 5: Set Up an S3 Bucket for Static Website Hosting
 1.	Login to AWS Console → https://console.aws.amazon.com
